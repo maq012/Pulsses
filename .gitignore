@@ -1,0 +1,27 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled files
+*.dll
+*.so
+*.dylib
+
+# Virtual environments
+venv/
+env/
+myenv/
+
+# Other generated files
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+
+# Visual Studio Code
+.vscode/
